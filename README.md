@@ -1,6 +1,6 @@
 ### Hello World! I'm Sarah.
 
-<img align="left" alt="Korpokkur Icon" width="80px" src="path/to/korpokkur_icon.png" />
+<img align="left" alt="something cute" width="80px" src="./images/korpokkur.png" />
 
 <p>
 Olá! Eu sou [Seu Nome].  
